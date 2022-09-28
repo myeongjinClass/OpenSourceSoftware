@@ -1,2 +1,3 @@
 ﻿  195299 명재윤.cpp
+C:\Users\명재윤\Desktop\새 폴더\코딩\git\OpenSourceSoftware\195299 명재윤\195299 명재윤\195299 명재윤.cpp(11,8): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
   195299 명재윤.vcxproj -> C:\Users\명재윤\Desktop\새 폴더\코딩\git\OpenSourceSoftware\195299 명재윤\x64\Debug\195299 명재윤.exe
