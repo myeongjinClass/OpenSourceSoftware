@@ -1,0 +1,32 @@
+git rebase main 뿌리를 메인으로 바꿈ㅎ
+
+git checkout main(이동)
+pit push origin main
+
+$ git checkout HEAD~1 
+헤드를 한단계아래로 옮김
+//파일 추가 .은 전부 다른 파일이름은 파일지정 
+git add .
+//깃 코밋 메시지
+git commit -m "asdasd" 
+//닉네임 만들기
+git tag "tagname"
+git cherry-pick "b"
+git log
+커밋을 저번거랑 합치기
+git commit --amend -m "a file and name"
+ git rebase -i HEAD~4
+git diff main origin/main
+
+cat (파일안 내용보기)
+
+git log
+git merge sub1
+
+1. 
+git init 
+2. 
+
+git pull 
+git push
+git fetch
