@@ -1,0 +1,4 @@
+﻿  195851  박 윤진.cpp
+C:\Users\yjpar\Desktop\gitpractice\OpenSourceSoftware\195851  박 윤진\195851  박 윤진.cpp(12,32): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\yjpar\Desktop\gitpractice\OpenSourceSoftware\195851  박 윤진\195851  박 윤진.cpp(12,32): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\yjpar\Desktop\gitpractice\OpenSourceSoftware\195851  박 윤진\195851  박 윤진.cpp(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
