@@ -33,3 +33,6 @@
 
 # Visual studio
 *.opendb
+
+# data
+*.csv
