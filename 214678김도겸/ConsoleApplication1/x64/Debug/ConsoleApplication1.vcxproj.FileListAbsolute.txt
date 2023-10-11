@@ -1,0 +1,2 @@
+C:\Kall K\Git\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+C:\Kall K\Git\OpenSourceSoftware\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
